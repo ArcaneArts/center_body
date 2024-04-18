@@ -1,0 +1,15 @@
+name: center_body
+description: "A simple centered body with an icon and or message"
+version: 1.0.0
+repository: https://github.com/ArcaneArts/center_body
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+  flutter: ">=1.17.0"
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+flutter:
